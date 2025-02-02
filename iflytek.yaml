@@ -1,0 +1,15 @@
+# NAME: iflytek
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/iflytek
+# COUNT: 8
+# UPDATED: 2025-02-02 21:35:17
+
+payload:
+- "+.changyan.com"
+- "+.ets100.com"
+- "+.iflyink.com"
+- "+.iflyrec.com"
+- "+.iflytek.com"
+- "+.xunfei.cn"
+- "+.xunfeixxj.com"
+- "+.zhixue.com"

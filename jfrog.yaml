@@ -1,0 +1,11 @@
+# NAME: jfrog
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/jfrog
+# COUNT: 4
+# UPDATED: 2025-02-02 21:35:17
+
+payload:
+- "+.bintray.com"
+- "+.jfrog.com"
+- "+.jfrog.org"
+- "d29vzk4ow07wi7.cloudfront.net"

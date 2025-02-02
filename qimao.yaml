@@ -1,0 +1,13 @@
+# NAME: qimao
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/qimao
+# COUNT: 6
+# UPDATED: 2025-02-02 21:35:17
+
+payload:
+- "+.jiuyue919.com"
+- "+.qimao.com"
+- "+.qm989.com"
+- "+.qmniu.com"
+- "+.quehu.com"
+- "+.wtzw.com"

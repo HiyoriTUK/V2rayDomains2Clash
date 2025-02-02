@@ -1,0 +1,12 @@
+# NAME: redtube
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/redtube
+# COUNT: 5
+# UPDATED: 2025-02-02 21:35:17
+
+payload:
+- "+.livehdcams.com"
+- "+.rdtcdn.com"
+- "+.redtube.com"
+- "+.redtube.com.br"
+- "+.redtubepremium.com"

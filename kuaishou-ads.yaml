@@ -1,0 +1,14 @@
+# NAME: kuaishou-ads
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/kuaishou-ads
+# COUNT: 7
+# UPDATED: 2025-02-02 21:35:17
+
+payload:
+- "+.adbkwai.com"
+- "+.adkwai.com"
+- "+.adukwai.com"
+- "+.e.kuaishou.cn"
+- "+.e.kuaishou.com"
+- "log-sdk.gifshow.com"
+- "wlog.kuaishou.com"

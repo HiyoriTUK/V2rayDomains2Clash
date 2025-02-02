@@ -1,0 +1,10 @@
+# NAME: openai
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/openai
+# COUNT: 3
+# UPDATED: 2025-02-02 21:35:17
+
+payload:
+- "browser-intake-datadoghq.com"
+- "o33249.ingest.sentry.io"
+- "openaicom.imgix.net"

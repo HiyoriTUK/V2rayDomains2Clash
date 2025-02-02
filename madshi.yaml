@@ -1,0 +1,11 @@
+# NAME: madshi
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/madshi
+# COUNT: 4
+# UPDATED: 2025-02-02 21:35:17
+
+payload:
+- "+.madshi.net"
+- "+.madvr.com"
+- "+.madvr.net"
+- "+.madvrlabs.llc"

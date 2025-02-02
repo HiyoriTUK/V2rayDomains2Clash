@@ -1,0 +1,10 @@
+# NAME: ymtc
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/ymtc
+# COUNT: 3
+# UPDATED: 2025-02-02 21:35:17
+
+payload:
+- "+.ymtc.cn"
+- "+.ymtc.com"
+- "+.ymtc.com.cn"

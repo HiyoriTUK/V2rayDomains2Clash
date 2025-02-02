@@ -1,0 +1,9 @@
+# NAME: geetest
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/geetest
+# COUNT: 2
+# UPDATED: 2025-02-02 21:35:17
+
+payload:
+- "+.geetest.com"
+- "geetest.datasink.sensorsdata.cn"

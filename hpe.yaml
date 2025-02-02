@@ -1,0 +1,23 @@
+# NAME: hpe
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/hpe
+# COUNT: 16
+# UPDATED: 2025-02-02 21:35:16
+
+payload:
+- "+.greenlakeaas.com"
+- "+.greenlakehybridcloud.com"
+- "+.hewlett-packard.asia"
+- "+.hewlett-packard.ch"
+- "+.hewlett-packard.co"
+- "+.hewlett-packard.co.il"
+- "+.hewlett-packard.co.uk"
+- "+.hewlett-packard.com.cn"
+- "+.hewlett-packard.com.mx"
+- "+.hewlett-packard.com.sg"
+- "+.hewlett-packard.jp"
+- "+.hewlett-packard.mobi"
+- "+.hewlettpackard.enterprises"
+- "+.hpe.com"
+- "+.hpecyber.com"
+- "hpefonts.s3.amazonaws.com"

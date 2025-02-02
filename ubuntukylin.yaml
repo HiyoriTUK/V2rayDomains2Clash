@@ -1,0 +1,9 @@
+# NAME: ubuntukylin
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/ubuntukylin
+# COUNT: 2
+# UPDATED: 2025-02-02 21:35:17
+
+payload:
+- "+.openkylin.top"
+- "+.ubuntukylin.com"

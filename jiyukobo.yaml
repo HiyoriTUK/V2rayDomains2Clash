@@ -1,0 +1,8 @@
+# NAME: jiyukobo
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/jiyukobo
+# COUNT: 1
+# UPDATED: 2025-02-02 21:35:17
+
+payload:
+- "+.jiyu-kobo.co.jp"

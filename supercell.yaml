@@ -1,0 +1,10 @@
+# NAME: supercell
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/supercell
+# COUNT: 3
+# UPDATED: 2025-02-02 21:35:16
+
+payload:
+- "+.supercell.com"
+- "+.supercell.helpshift.com"
+- "+.supercell.net"

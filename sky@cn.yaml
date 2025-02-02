@@ -1,0 +1,8 @@
+# NAME: sky
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/sky
+# COUNT: 1
+# UPDATED: 2025-02-02 21:35:16
+
+payload:
+- "+.cn-cdn1.skymansion.net"

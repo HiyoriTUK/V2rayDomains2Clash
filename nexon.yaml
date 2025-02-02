@@ -1,0 +1,11 @@
+# NAME: nexon
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/nexon
+# COUNT: 4
+# UPDATED: 2025-02-02 21:35:17
+
+payload:
+- "+.nexon.co.jp"
+- "+.nexon.com"
+- "+.nexon.io"
+- "+.nexoncdn.co.kr"

@@ -1,0 +1,11 @@
+# NAME: cursor
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/cursor
+# COUNT: 4
+# UPDATED: 2025-02-02 21:35:17
+
+payload:
+- "+.cursor-cdn.com"
+- "+.cursor.com"
+- "+.cursor.sh"
+- "+.cursorapi.com"

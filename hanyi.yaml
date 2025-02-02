@@ -1,0 +1,13 @@
+# NAME: hanyi
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/hanyi
+# COUNT: 6
+# UPDATED: 2025-02-02 21:35:17
+
+payload:
+- "+.fontstar.com.cn"
+- "+.hanyi.com.cn"
+- "+.hellofont.cn"
+- "+.hellowebfont.com"
+- "hellofontpreview.oss-cn-beijing.aliyuncs.com"
+- "hellowebfonts.oss-cn-beijing.aliyuncs.com"

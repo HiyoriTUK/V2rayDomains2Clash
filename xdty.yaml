@@ -1,0 +1,8 @@
+# NAME: xdty
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/xdty
+# COUNT: 1
+# UPDATED: 2025-02-02 21:35:17
+
+payload:
+- "+.xdty.org"

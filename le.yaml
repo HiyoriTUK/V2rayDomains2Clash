@@ -1,0 +1,18 @@
+# NAME: le
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/le
+# COUNT: 11
+# UPDATED: 2025-02-02 21:35:17
+
+payload:
+- "+.api.game.letvstore.com"
+- "+.le.com"
+- "+.leautolink.com"
+- "+.lecloud.com"
+- "+.lecloudapi.com"
+- "+.lemall.com"
+- "+.leso.cn"
+- "+.letv.allyes.com"
+- "+.letv.com"
+- "+.letvcdn.com"
+- "+.letvimg.com"

@@ -1,0 +1,12 @@
+# NAME: aamgame
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/aamgame
+# COUNT: 5
+# UPDATED: 2025-02-02 21:35:16
+
+payload:
+- "+.aamgame.com"
+- "+.aamgame.mobi"
+- "+.aamgame.net"
+- "+.aamsmart.com"
+- "+.singworld.net"

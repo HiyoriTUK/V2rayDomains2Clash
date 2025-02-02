@@ -1,0 +1,10 @@
+# NAME: uber
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/uber
+# COUNT: 3
+# UPDATED: 2025-02-02 21:35:17
+
+payload:
+- "+.uber-assets.com"
+- "+.uber.com"
+- "+.ubereats.com"

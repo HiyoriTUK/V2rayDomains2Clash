@@ -1,0 +1,9 @@
+# NAME: rthk
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/rthk
+# COUNT: 2
+# UPDATED: 2025-02-02 21:35:16
+
+payload:
+- "+.etvonline.hk"
+- "+.rthk.hk"

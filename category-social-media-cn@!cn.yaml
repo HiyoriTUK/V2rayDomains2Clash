@@ -1,0 +1,14 @@
+# NAME: category-social-media-cn
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/category-social-media-cn
+# COUNT: 7
+# UPDATED: 2025-02-02 21:35:17
+
+payload:
+- "+.hk.weibo.com"
+- "+.my.weibo.com"
+- "+.overseas.weibo.com"
+- "+.sg.weibo.com"
+- "+.th.weibo.com"
+- "+.tw.weibo.com"
+- "+.us.weibo.com"
